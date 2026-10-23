@@ -1,0 +1,6 @@
+{
+  "name": "Doniyor & Zilola — Abadiy Sevgi Izhori",
+  "description": "Doniyor tomonidan uning sevgilisi Zilolaga bag'ishlangan yuksak dizayndagi zamonaviy sevgi izhori, romantik xotiralar va AI visual galereyasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
